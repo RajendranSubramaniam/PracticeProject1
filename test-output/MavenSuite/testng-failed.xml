@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MavenSuite]">
+  <test name="PracticeTest(failed)">
+    <classes>
+      <class name="MyMavenProject.MavenProjectPractice.GcrLogin">
+        <methods>
+          <include name="loginGCR"/>
+        </methods>
+      </class> <!-- MyMavenProject.MavenProjectPractice.GcrLogin -->
+    </classes>
+  </test> <!-- PracticeTest(failed) -->
+</suite> <!-- Failed suite [MavenSuite] -->

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MavenSuite" parallel="false">
+  <test name="PracticeTest">
+    <classes>
+      <class name="MyMavenProject.MavenProjectPractice.GcrLogin"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
